@@ -76,4 +76,4 @@ Software Engineering student at San Jose State University with hands-on experien
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syoh2k/)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=driffe&color=blueviolet)
