@@ -72,8 +72,6 @@ Software Engineering student at San Jose State University with hands-on experien
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=driffe&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=driffe&layout=compact&theme=dracula)
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syoh2k/)
 
