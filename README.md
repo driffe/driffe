@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Seyoung Oh 👋
 
 Software Engineering student at San Jose State University with hands-on experience in software development and field applications engineering. Passionate about building efficient systems and solving complex technical challenges.
 
