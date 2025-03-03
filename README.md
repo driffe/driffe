@@ -30,20 +30,6 @@ Software Engineering student at San Jose State University with hands-on experien
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🚀 Professional Experience
-
-### Field Application Engineer - JKI INC
-*Campbell, CA (Sep 2024 - Jan 2025)*
-- Developed C++ Shmoo testing framework for Erase Operation verification
-- Improved VCC power operational margin by 17% through Program and Read operations optimization
-- Enhanced memory operation timing alignment with vendor specifications
-- Achieved 80% timing pattern optimization through implementation of missing operations
-
-### Software Engineer Intern - JKI INC
-*Yongin-si, South Korea (Jul 2022 - Sep 2022)*
-- Built temperature analysis and visualization system for Burn-in boards
-- Developed automated data processing pipeline using Python (NumPy, Pandas)
-- Implemented interactive visualization system with Plotly, processing 10,000+ log entries
 
 ## 🛠️ Featured Projects
 
