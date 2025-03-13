@@ -48,11 +48,6 @@ Software Engineering student at San Jose State University with hands-on experien
 - Developed Moon Phase Timer with dynamic lunar phase visualization
 - Achieved 13+ user installations
 
-## 🎖️ EXTRACURRICULAR ACTIVITIES
-- IT Specialist in South Korean Military (Oct 2022 - Apr 2024)
-  - Received III Corps Commanding General's Commendation for ROK-U.S. Joint Military Exercise FS 24
-- Private Programming Tutor (Apr 2024 - Jul 2024)
-- Volunteer Coding Tutor (Jul 2021 - Sep 2022)
 
 ## 📊 GitHub Stats
 
