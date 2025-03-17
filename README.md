@@ -34,6 +34,7 @@ Software Engineering student at San Jose State University with hands-on experien
 ### Medication Guide
 - Built a "Medication Guide" web application, winning the "Best Use of Perplexity/Sonar" award at the “Build with AI: HackHayward” Hackathon among about 40 teams.
 - Implemented full-stack architecture using vanilla JavaScript, HTML/CSS for frontend, Python FastAPI for backend, integrating Perplexity AI API for medication recommendations and Google Places API for pharmacy location services.
+
 [Demo](https://medication-recommend.vercel.app/)
 
 ### Event Management System
@@ -45,6 +46,7 @@ Software Engineering student at San Jose State University with hands-on experien
 - Developed expense manager using Next.js and Firebase
 - Implemented OAuth authentication and Firestore database
 - Designed secure database schema with custom security rules
+
 [Demo](https://army-money-tracker.vercel.app/)
 
 
@@ -52,6 +54,7 @@ Software Engineering student at San Jose State University with hands-on experien
 - Created Reaction Time Test with precise timing algorithms
 - Developed Moon Phase Timer with dynamic lunar phase visualization
 - Achieved 13+ user installations
+
 [Demo-Timer](https://chromewebstore.google.com/detail/moon-phase-timer/kkiikiidimhmaenmpdpfgkhoahkccjhm)
 [Demo-Time Test](https://chromewebstore.google.com/detail/%EB%B0%98%EC%9D%91%EC%86%8D%EB%8F%84-%ED%85%8C%EC%8A%A4%ED%8A%B8/oefdnnlfjgoagefgnhfhffjgdbgipoin)
 
