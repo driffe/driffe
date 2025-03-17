@@ -1,12 +1,9 @@
-## Hi there 👋
-
 # Hello, I'm Seyoung Oh 👋
 
 Software Engineering student at San Jose State University with hands-on experience in software development and field applications engineering. Passionate about building efficient systems and solving complex technical challenges.
 
 ## 🎓 Education
 - **B.S. in Software Engineering** - San Jose State University (Expected Dec 2025)
-  - **Key Coursework**: Parallel Processing, Programming Languages, Object-Oriented Design, Enterprise Software, Database Management Systems, Data Structures & Algorithms, Operating Systems, Computer Networks & Security
 
 ## 💻 Technical Skills
 
@@ -33,6 +30,12 @@ Software Engineering student at San Jose State University with hands-on experien
 
 ## 🛠️ Featured Projects
 
+
+### Medication Guide
+- Built a "Medication Guide" web application, winning the "Best Use of Perplexity/Sonar" award at the “Build with AI: HackHayward” Hackathon among about 40 teams.
+- Implemented full-stack architecture using vanilla JavaScript, HTML/CSS for frontend, Python FastAPI for backend, integrating Perplexity AI API for medication recommendations and Google Places API for pharmacy location services.
+[Demo]([https://www.google.com](https://medication-recommend.vercel.app/))
+
 ### Event Management System
 - Built CRUD-based event management system using Java and SQL
 - Implemented backend with Spring Boot and JDBC template
@@ -42,11 +45,16 @@ Software Engineering student at San Jose State University with hands-on experien
 - Developed expense manager using Next.js and Firebase
 - Implemented OAuth authentication and Firestore database
 - Designed secure database schema with custom security rules
+[Demo](https://army-money-tracker.vercel.app/)
+
 
 ### Google Extension Apps
 - Created Reaction Time Test with precise timing algorithms
 - Developed Moon Phase Timer with dynamic lunar phase visualization
 - Achieved 13+ user installations
+[Demo-Timer]([https://www.google.com](https://chromewebstore.google.com/detail/moon-phase-timer/kkiikiidimhmaenmpdpfgkhoahkccjhm))
+[Demo-Time Test]([https://www.google.com](https://chromewebstore.google.com/detail/%EB%B0%98%EC%9D%91%EC%86%8D%EB%8F%84-%ED%85%8C%EC%8A%A4%ED%8A%B8/oefdnnlfjgoagefgnhfhffjgdbgipoin))
+
 
 
 ## 📊 GitHub Stats
