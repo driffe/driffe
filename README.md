@@ -29,7 +29,7 @@ B.S. in Software Engineering
 - Built AI-powered medication guide serving **100K+ pharmacies** with **80% accuracy**
 - Implemented FastAPI backend with Perplexity AI and Google Places API
 - Reduced API usage by **30%** through in-memory caching
-- **[Live Demo](https://medication-recommend.vercel.app/)**
+- **[Live Demo](https://meditrek.vercel.app/)**
 
 ### 🏅 SpartUpSJSU Hackathon (2025) - 5th Place
 - Developed AutoWise AI car platform using Next.js + LLM APIs
